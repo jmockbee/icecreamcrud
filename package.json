@@ -1,0 +1,19 @@
+{
+  "name": "icecreamcrud",
+  "version": "1.0.0",
+  "description": "CREATE, UPDATE, and DELETE  pieces of data from MySQL database",
+  "main": "icecreamcrud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmockbee/icecreamcrud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmockbee/icecreamcrud/issues"
+  },
+  "homepage": "https://github.com/jmockbee/icecreamcrud#readme"
+}
